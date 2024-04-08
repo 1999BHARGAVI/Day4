@@ -1,0 +1,22 @@
+what are the common features are all programming languages ?
+
+C-Language:
+syntax:example
+             #include <stdio.h>
+              int main() {
+              printf("Hello World!");
+              return 0;
+              }
+input statement:
+         printf()
+output statement:
+        scanf()
+variables:
+        >>Local Variables.
+        >>Global Variables.
+        >>Static Variables.
+        >>Automatic Variables.
+        >>Extern Variables.
+        >>Register Variables.
+operators:
+        
